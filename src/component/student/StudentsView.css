@@ -1,0 +1,19 @@
+.pagination {
+    display: flex;
+    justify-content: right;
+    margin-top: -10px;
+    margin-bottom: 10px;
+
+
+  }
+  
+  .pagination li {
+    list-style: none;
+    margin-right: 10px;
+  }
+  
+  .pagination .active a {
+    background-color: #0ee8a3;
+    color: #fff;
+  }
+  
